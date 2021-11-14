@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libs/glad/glad.h
+khrplatform.h
+../libs/glad/khrplatform.h
+
+../libs/glad/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+../libs/glfw/include/GLFW/glfw3.h
+stddef.h
+-
+stdint.h
+-
+vulkan/vulkan.h
+-
+GLES/gl.h
+-
+GLES/glext.h
+-
+GLES2/gl2.h
+-
+GLES2/gl2ext.h
+-
+GLES3/gl3.h
+-
+GLES2/gl2ext.h
+-
+GLES3/gl31.h
+-
+GLES2/gl2ext.h
+-
+GLES3/gl32.h
+-
+GLES2/gl2ext.h
+-
+OpenGL/gl3.h
+-
+OpenGL/gl3ext.h
+-
+GL/glcorearb.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+gl/GL.h
+-
+GL/glext.h
+-
+GL/glu.h
+-
+
+C:/Users/Brandon 2/Documents/Projects/GLFWCMakeTemplate/src/main.c
+stdio.h
+C:/Users/Brandon 2/Documents/Projects/GLFWCMakeTemplate/src/stdio.h
+stdbool.h
+C:/Users/Brandon 2/Documents/Projects/GLFWCMakeTemplate/src/stdbool.h
+stdint.h
+-
+malloc.h
+-
+glad/glad.h
+C:/Users/Brandon 2/Documents/Projects/GLFWCMakeTemplate/src/glad/glad.h
+GLFW/glfw3.h
+C:/Users/Brandon 2/Documents/Projects/GLFWCMakeTemplate/src/GLFW/glfw3.h
+
